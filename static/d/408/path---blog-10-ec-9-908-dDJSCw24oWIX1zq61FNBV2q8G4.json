@@ -1,0 +1,1 @@
+{"errors":[{"message":"Field \"featuredImage\" must not have a selection since type \"String\" has no subfields.","locations":[{"line":18,"column":25}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"limit":2,"skip":18,"numPages":29,"currentPage":10}}

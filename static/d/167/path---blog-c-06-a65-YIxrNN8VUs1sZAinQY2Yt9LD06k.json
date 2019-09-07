@@ -1,0 +1,1 @@
+{"errors":[{"message":"Variable \"$filter\" got invalid value \"{}\"; Expected type MarkdownRemarkFilterInput to be an object.","locations":[{"line":2,"column":3}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"limit":9,"skip":0,"numPages":2,"currentPage":1,"layout":"blog","filter":"{}"}}

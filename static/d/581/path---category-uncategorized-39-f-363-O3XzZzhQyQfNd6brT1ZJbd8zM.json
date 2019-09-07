@@ -1,0 +1,1 @@
+{"errors":[{"message":"Variable \"$isCategory\" is never used in operation \"blogListQuery\".","locations":[{"line":2,"column":3}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"category":"Uncategorized","limit":9,"skip":0,"categoryNumPages":2,"currentPage":1,"layout":"blog","isCategory":true}}
