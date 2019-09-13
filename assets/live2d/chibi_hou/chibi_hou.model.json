@@ -1,0 +1,15 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"chibi_hou.moc",
+	"textures":[
+		"chibi_hou.1024/texture_00.png"
+	],
+	"motions":{
+		"idle":[
+			{"file":"motions/Epsilon2.1_idle_01.mtn"}
+		]
+	},
+	"physics":"chibi_hou.physics.json",
+	"project_settings":"chibi_hou.settings.json",
+	"name":"chibi_hou"
+}
